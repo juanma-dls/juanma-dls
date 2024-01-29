@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-Técnico Superior en Desarrollo de Software<br>Actualmente trabajando en la Municipalidad de Maipú
+Técnico Superior en Desarrollo de Software
 
 
 ## 🌐 Redes Sociales:
